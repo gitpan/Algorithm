@@ -10,3 +10,5 @@ Revision history for Perl extension Algorithm.
 	- Improved Subroutine of Binary Search
 0.04  Monday May 5 22:12:30 2014
 	- Corrected Makefile.PL
+0.05  Monday May 5 22:12:30 2014
+	- Corrected folder name
